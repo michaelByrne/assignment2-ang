@@ -1,0 +1,15 @@
+li {
+    display: table;
+}
+
+span {
+    display: table-cell;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
